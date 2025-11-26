@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Abhishek Gaur</h1>
+<h1 align="center">⚡ Abhishek Gaur ⚡</h1>
 <h3 align="center">Cloud • Security • Infrastructure • Full-time Machine Enjoyer</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-Hey! I'm **Abhishek** — the guy who builds hosting platforms, DDoS protection systems, and breaks things until they start working.
+Hey! I'm **Abhishek (aka An.Average.Being)** from India - Mumbai, the guy who builds hosting platforms, DDoS protection systems, and breaks things until they start working.
 
 - 🌩️ **Cloud Project:** [Slice.WTF Hosting](https://slice.wtf)  
 - 🛡️ **Cyber Security Projects:**  
@@ -21,7 +21,8 @@ Hey! I'm **Abhishek** — the guy who builds hosting platforms, DDoS protection 
   - FlowPvP — https://discord.gg/VhZpzeqN  
   - RootMC — https://discord.gg/urCCrVV59V  
 - 👨‍💻 **Portfolio:** https://ceo.slice.wtf  
-- 📫 **Contact:** anaveragebeing2007@gmail.com  
+- 📫 **Contact:** anaveragebeing2007@gmail.com
+- 📫 **Social:** an.average.being 
 
 ---
 
