@@ -14,6 +14,8 @@
 
 ---
 
+<blockquote>
+
 ## ⚡ About Me
 I build hosting platforms, secure high‑traffic networks, and automate the boring stuff. Started in 2021 and never stopped shipping.
 
@@ -22,7 +24,11 @@ I build hosting platforms, secure high‑traffic networks, and automate the bori
 - 🎮 On the side: Minecraft server development, performance tuning, anti‑cheat.
 - ✉️ Reach me: anaveragebeing2007@gmail.com
 
+</blockquote>
+
 ---
+
+<blockquote>
 
 ## 🧩 Expertise Highlights
 <table>
@@ -60,14 +66,22 @@ I build hosting platforms, secure high‑traffic networks, and automate the bori
   </tr>
 </table>
 
+</blockquote>
+
 ---
+
+<blockquote>
 
 ## 🧰 Operating Systems & Virtualization
 - Linux (Debian‑based) daily‑driver; kernel‑level tuning when needed
 - Proxmox, Virtualizor, and most hypervisors in the wild
 - VM orchestration, templates, live migration, HA clusters
 
+</blockquote>
+
 ---
+
+<blockquote>
 
 ## 🔒 Security Systems I Build
 - XDP/eBPF pipelines for L3/L4 mitigation and packet‑path filtering
@@ -75,7 +89,11 @@ I build hosting platforms, secure high‑traffic networks, and automate the bori
 - Network/routing design (BGP, Anycast, ECMP) for resilience at scale
 - Automated threat response, honeypots, deception, audit pipelines
 
+</blockquote>
+
 ---
+
+<blockquote>
 
 ## 🧪 Tech I Use
 <p>
@@ -95,13 +113,21 @@ I build hosting platforms, secure high‑traffic networks, and automate the bori
   <img src="https://skillicons.dev/icons?i=linux,debian,nginx,docker,kubernetes,terraform,ansible,git,go,python,bash,redis,postgres,mysql,grafana,prometheus,aws,gcp,cloudflare&perline=9" />
 </p>
 
+</blockquote>
+
 ---
+
+<blockquote>
 
 ## 🎮 Minecraft (Hobby)
 - Network design, performance optimization, anti‑DDoS, plugin workflows
 - End‑to‑end hosting: proxies, shards, databases, observability
 
+</blockquote>
+
 ---
+
+<blockquote>
 
 ## 🌐 Links
 - Portfolio: https://ceo.slice.wtf
@@ -109,6 +135,8 @@ I build hosting platforms, secure high‑traffic networks, and automate the bori
 - McShield.ORG: https://mcshield.org
 - C2‑Security: https://c2security.ovh
 - Communities: FlowPvP (https://discord.gg/VhZpzeqN), RootMC (https://discord.gg/urCCrVV59V)
+
+</blockquote>
 
 ---
  
@@ -119,31 +147,33 @@ I build hosting platforms, secure high‑traffic networks, and automate the bori
  
  ---
  
- ## 📈 Activity Graph
+ ## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/abhishekgaur2007"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://instagram.com/an.average.being"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/an average being"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+  <a href="https://discord.gg/njQYA9MQ"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+</p>
+
+---
+
+## 📈 Activity Graph
  <p align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-gaur-2007&theme=tokyo-night&hide_border=true" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-gaur-2007&theme=dracula&hide_border=true" />
  </p>
  
  ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-gaur-2007&show_icons=true&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-gaur-2007&show_icons=true&theme=dracula&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-gaur-2007&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-gaur-2007&show_icons=true&theme=dracula" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-gaur-2007&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-gaur-2007&theme=dracula" />
 </p>
 
----
-
-<details>
-  <summary>Changelog</summary>
-  <ul>
-    <li>2025‑11‑26: Refreshed profile to highlight cloud, security, automation, and datacenter expertise; added badges, sections, and animated headline.</li>
-  </ul>
-</details>
