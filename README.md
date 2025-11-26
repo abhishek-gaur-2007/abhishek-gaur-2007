@@ -91,6 +91,10 @@ I build hosting platforms, secure high‑traffic networks, and automate the bori
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,debian,nginx,docker,kubernetes,terraform,ansible,git,go,python,bash,redis,postgres,mysql,grafana,prometheus,aws,gcp,cloudflare&perline=9" />
+</p>
+
 ---
 
 ## 🎮 Minecraft (Hobby)
@@ -107,6 +111,20 @@ I build hosting platforms, secure high‑traffic networks, and automate the bori
 - Communities: FlowPvP (https://discord.gg/VhZpzeqN), RootMC (https://discord.gg/urCCrVV59V)
 
 ---
+ 
+ ## 🏆 Trophies
+ <p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=abhishek-gaur-2007&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
+ </p>
+ 
+ ---
+ 
+ ## 📈 Activity Graph
+ <p align="center">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-gaur-2007&theme=tokyo-night&hide_border=true" />
+ </p>
+ 
+ ---
 
 ## 📊 GitHub Stats
 <p align="center">
