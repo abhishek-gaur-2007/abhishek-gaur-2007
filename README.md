@@ -45,8 +45,6 @@ Since 2021, I've been on a journey deep into cloud computing and cybersecurity. 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-gaur-2007&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-gaur-2007&show_icons=true&theme=dracula&layout=compact" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-gaur-2007&theme=dracula" />
 </p>
 
@@ -101,9 +99,4 @@ Since 2021, I've been on a journey deep into cloud computing and cybersecurity. 
 
 </blockquote>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhishek-gaur-2007/abhishek-gaur-2007/output/github-contribution-grid-snake.svg" />
-</p>
 
