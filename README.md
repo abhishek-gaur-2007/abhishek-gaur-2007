@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=220&text=Abhishek%20Gaur&fontAlign=50&fontAlignY=35&color=0:0d253c,100:2c5364&fontColor=ffffff&desc=Cloud%20Architect%20%7C%20Security%20Engineer%20%7C%20Automation%20Expert&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=220&text=Abhishek%20Gaur&fontAlign=50&fontAlignY=35&color=0:0d253c,100:2c5364&section=header&reversal=false&fontColor=ffffff&desc=Cloud%20Architect%20%7C%20Security%20Engineer%20%7C%20Automation%20Expert&descAlign=50&descAlignY=60" />
 </p>
 
 <p align="center">
@@ -70,8 +70,9 @@ Since 2021, I've been on a journey deep into cloud computing and cybersecurity. 
 
 ---
 
-<details>
-<summary><h3>🧩 More About My Expertise</h3></summary>
+<blockquote>
+
+### 🧩 More About My Expertise
 
 #### ☁️ Cloud, Infra & Datacenter
 - **Hosting Businesses:** Architecting and managing multi-tenant hosting platforms from scratch.
@@ -83,5 +84,11 @@ Since 2021, I've been on a journey deep into cloud computing and cybersecurity. 
 - **Intelligent Detection:** Implementing behavior analysis and ML-driven models for threat detection.
 - **Network Security:** Designing resilient networks with BGP, Anycast, and ECMP for security and scalability.
 
-</details>
+</blockquote>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhishek-gaur-2007/abhishek-gaur-2007/output/github-contribution-grid-snake.svg" />
+</p>
 
