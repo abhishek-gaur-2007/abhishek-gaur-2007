@@ -7,7 +7,7 @@
   </style>
   <rect width="100%" height="100%" fill="#161b22" rx="10" ry="10" />
   <defs><clipPath id="logoClip"><circle cx="50" cy="75" r="35" /></clipPath></defs>
-  <image xlink:href="https://cdn.discordapp.com/icons/1369742010373771495/f2057564206f7dbc27f01e8e1b6d0017.webp" x="15" y="40" width="70" height="70" clip-path="url(#logoClip)" />
+  <image xlink:href="PASTE_YOUR_BASE64_DATA_HERE" x="15" y="40" width="70" height="70" clip-path="url(#logoClip)" />
   <text x="100" y="50" class="title">McShield.ORG</text>
   <text x="100" y="75" class="desc">Advanced DDoS protection for networks.</text>
   <g transform="translate(100, 100)"><rect width="95" height="24" rx="12" class="tag-bg" /><text x="47.5" y="16" text-anchor="middle" class="tag-text">Cybersecurity</text></g>
