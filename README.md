@@ -45,6 +45,8 @@ Since 2021, I've been on a journey deep into cloud computing and cybersecurity. 
 
 ### 📊 GitHub Stats
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-gaur-2007&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-gaur-2007&show_icons=true&theme=dracula&layout=compact" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-gaur-2007&theme=dracula" />
 </p>
 
@@ -71,13 +73,13 @@ Since 2021, I've been on a journey deep into cloud computing and cybersecurity. 
 ### 🚀 Featured Projects
 <p align="center">
   <a href="https://slice.wtf">
-    <img src="./assets/slice-wtf-card.svg" alt="Slice.WTF Hosting" />
+    <img src="https://raw.githubusercontent.com/abhishek-gaur-2007/abhishek-gaur-2007/main/assets/slice-wtf-card.svg" alt="Slice.WTF Hosting" />
   </a>
   <a href="https://mcshield.org">
-    <img src="./assets/mcshield-card.svg" alt="McShield.ORG" />
+    <img src="https://raw.githubusercontent.com/abhishek-gaur-2007/abhishek-gaur-2007/main/assets/mcshield-card.svg" alt="McShield.ORG" />
   </a>
   <a href="https://c2security.ovh">
-    <img src="./assets/c2-security-card.svg" alt="C2-Security" />
+    <img src="https://raw.githubusercontent.com/abhishek-gaur-2007/abhishek-gaur-2007/main/assets/c2-security-card.svg" alt="C2-Security" />
   </a>
 </p>
 
